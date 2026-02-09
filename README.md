@@ -43,7 +43,7 @@
 <div class="books-section">
   <h2>📗 Әдебиеттер тізімі</h2>
     <p>
-    👉 <a href="#" target="_blank" style="font-weight: bold; font-size: 1.1em;">Әдебиеттерді ашу (Google Sheets)</a>
+    👉 <a href="#" target="_blank" style="font-weight: bold; font-size: 1.1em;">Әдебиеттерді ашу</a>
   </p>
 </div>
 
@@ -52,7 +52,7 @@
   <p>Курс барысындағы студенттердің ағымдағы бағалары, қатысуы төмендегі журналда көрсетіледі.</p>
   
   <p>
-    👉 <a href="#" target="_blank" style="font-weight: bold; font-size: 1.1em;">Журналды ашу (Google Sheets)</a>
+    👉 <a href="#" target="_blank" style="font-weight: bold; font-size: 1.1em;">Журналды ашу</a>
   </p>
 </div>
 
