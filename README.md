@@ -42,7 +42,6 @@
 
 <div class="books-section">
   <h2>📗 Әдебиеттер тізімі</h2>
-
     <p>
     👉 <a href="#" target="_blank" style="font-weight: bold; font-size: 1.1em;">Әдебиеттерді ашу (Google Sheets)</a>
   </p>
