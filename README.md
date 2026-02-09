@@ -489,29 +489,6 @@
     <tr><td>MO25-08</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
     <tr><td>MO25-09</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
     <tr><td>MO25-10</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-11</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-12</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-13</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-14</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-15</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-16</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-17</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-18</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-19</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-20</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-21</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-22</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-23</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-24</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-25</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-26</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-27</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-28</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-29</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-30</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-31</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-32</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-33</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
   </tbody>
 </table>
 
