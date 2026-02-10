@@ -52,7 +52,7 @@
   <p>Курс барысындағы студенттердің ағымдағы бағалары, қатысуы төмендегі журналда көрсетіледі.</p>
   
   <p>
-    👉 <a href="#" target="_blank" style="font-weight: bold; font-size: 1.1em;">Журналды ашу</a>
+    👉 <a href="https://docs.google.com/spreadsheets/d/1pGsnnty9nR0F8cCphmYaaLbgPB9olX8JZe3Iu-z1VjM/edit?usp=sharing" target="_blank" style="font-weight: bold; font-size: 1.1em;">Журналды ашу</a>
   </p>
 </div>
 
