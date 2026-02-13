@@ -72,9 +72,9 @@
     <tr>
       <td align="center"><b>1</b></td>
       <td><b>Машиналық оқытуға кіріспе</b><br><sub>ML түрлері, міндет түрлері (классификация, регрессия, болжау, ранжирлеу), CRISP-DM әдіснамасы, белгілер және шкалалар</sub></td>
-      <td><a href="https://drive.google.com/drive/u/2/folders/1nkn8gdVQsWnLxIPWN86kLMO5wCaSYqk9">📝 Дәріс жазбасы</a></td>  
-      <td><a href="#">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1nkn8gdVQsWnLxIPWN86kLMO5wCaSYqk9?usp=sharing">📝 Дәріс жазбасы</a></td>  
+      <td><a href="https://drive.google.com/drive/folders/1Ma0-gVzi7VFsb_UDRUOPojWJJq2PC0Xx?usp=sharing">💻 Практика</a></td>
+      <td><a href="https://colab.research.google.com/drive/1LuQNjOsFmq6VxwoyLiq4FD_6qFKhrGrl?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>2</b></td>
