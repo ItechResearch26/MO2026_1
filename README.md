@@ -450,16 +450,15 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>MO25-01</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-02</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-03</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-04</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-05</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-06</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-07</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-08</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-09</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-10</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-01</td><td><a href="http://github.com/aopsuser">Профиль</a></td><td><a href="https://github.com/aopsuser/Ast">Репо</a></td></tr>
+    <tr><td>MO25-02</td><td><a href="https://github.com/ansaganakhat">Профиль</a></td><td><a href="https://github.com/ansaganakhat/project-1">Репо</a></td></tr>
+    <tr><td>MO25-03</td><td><a href="http://github.com/beksultann-GQ">Профиль</a></td><td><a href="https://github.com/beksultann-GQ/Bexs_work">Репо</a></td></tr>
+    <tr><td>MO25-04</td><td><a href="">Профиль</a></td><td><a href="">Репо</a></td></tr>
+    <tr><td>MO25-05</td><td><a href="https://github.com/Diyar200897">Профиль</a></td><td><a href="https://github.com/Diyar200897/First">Репо</a></td></tr>
+    <tr><td>MO25-06</td><td><a href="">Профиль</a></td><td><a href="">Репо</a></td></tr>
+    <tr><td>MO25-07</td><td><a href="https://github.com/MangoDeath">Профиль</a></td><td><a href="https://github.com/MangoDeath/ML_work_repo">Репо</a></td></tr>
+    <tr><td>MO25-08</td><td><a href="https://github.com/zhanerke159">Профиль</a></td><td><a href="https://github.com/zhanerke159/ML">Репо</a></td></tr>
+    <tr><td>MO25-09</td><td><a href="https://github.com/smtmn0">Профиль</a></td><td><a href="https://github.com/smtmn0/AminaS">Репо</a></td></tr>
   </tbody>
 </table>
 
