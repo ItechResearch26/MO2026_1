@@ -81,7 +81,7 @@
       <td><b>Python: негіздері</b><br><sub>Айнымалылар, деректер типтері, шарттар, циклдер, функциялар, аргументтер және қайтару мәндері. Google Collab, Jupyter Notebook </sub></td>
       <td><a href="https://drive.google.com/drive/folders/1fuF5IeG3t3OnREEgXa-Z7hMAZAsVjqi8?usp=sharing">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/14vtnzUDL_lE8O2Dwocp4Aw6Ve9rlOyA8?usp=sharing">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://colab.research.google.com/drive/1Bp9_tTmf7BhUzJ137svWGCuylWKqOlf3?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>3</b></td>
