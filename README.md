@@ -88,7 +88,7 @@
       <td><b>Файлдармен жұмыс (ашу, оқу, жазу)</b><br><sub>Тізімдік өрнектер (list comprehension), деректер құрылымдары (тізімдер, сөздіктер, кортеждер, жиындар), JSON форматы және онымен жұмыс </sub></td>
       <td><a href="https://drive.google.com/drive/folders/1AarpvrwO8mudNGQ36YNGsNkJR9_ZLtmS?usp=sharing">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1pEXz-uymEuFRSHBUuzl5TASncJFB5plt?usp=sharing">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://colab.research.google.com/drive/1Y6pBt-bhZtvz6nvvXSARh7ajy7S3bJtA?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>4</b></td>
