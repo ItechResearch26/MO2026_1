@@ -95,7 +95,7 @@
       <td><b>Python: ОББ және NumPy</b><br><sub>Ерекше жағдайларды өңдеу (try-except), модульдер мен пакеттер, NumPy кіріспе (массивтер, векторизация, негізгі операциялар)</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1rst5ZDK1VrOp_oPsAqqMthPWnzXu2vr4?usp=sharing">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1jq_Qt__368P_tJyTye-zpk_kKskwiidn?usp=sharing">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1qbYZQH-3q3msTW_Gcm8A00dqIArjXbQ_/view?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>5</b></td>
