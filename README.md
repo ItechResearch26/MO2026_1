@@ -102,7 +102,7 @@
       <td><b>Математика </b><br><sub>Сызықтық алгебра негіздері (матрицалар, векторлар, операциялар, нормалар), ықтималдық теориясы негіздері, статистикалық таралымдар, деректерді нормализациялау әдістері </sub></td>
       <td><a href="https://drive.google.com/drive/folders/1AJmizyDrXAZ3tKg5j3anuUlfRJibmiKL?usp=sharing">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1nhIcYT8bMNDu_n_CMI9LVTohjrryN6ty?usp=sharing">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1qP6SYrw34k6ljLfBn40yWCmyQ7O5jrG-/view?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
   </tbody>
 </table>
