@@ -126,7 +126,7 @@
       <td><b>Pandas</b><br><sub>Series және DataFrame, индексация және таңдау, шарт бойынша сүзу, топтастыру (groupby), агрегаттау, кестелерді біріктіру (merge, join, concat)</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1lUk6xGcDkzUilzivq_kpq6Xs1aNqzcAg?usp=sharing">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/11J8WO3j8Y0gjdMxNFNNuAlZ1usG6qwO9?usp=sharing">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://colab.research.google.com/drive/1KLrvQSyJSh2mQkvhHpnBzbliYgaay9lR?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>7</b></td>
