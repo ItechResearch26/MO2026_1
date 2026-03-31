@@ -140,7 +140,7 @@
       <td><b>Сызықтық регрессия</b><br><sub>Сызықтық регрессия (жай және ridge), логистикалық регрессия, полиномдық белгілер, регуляризация және артық үйрену, Kaggle</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1XDi_834zXjEI7VVz-Edc43csFAFyF4Pm?usp=sharing">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1gb9MFWqz4JBO-qbtIC6_-tIuNvCsAMNI?usp=sharing">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/194n6kpMLcg5QIyrJbA8oTUMjBa9go3ek/view?usp=sharing">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>9</b></td>
