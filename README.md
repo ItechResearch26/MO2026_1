@@ -147,7 +147,7 @@
       <td><b>KNN, SVM, Naive Bayes</b><br><sub>k-жақын көршілер, тірек вектор машиналары, наивті Байес классификаторы, шешім ағаштары, кластерлеу міндеттері және модельдері</sub></td>
       <td><a href="https://drive.google.com/drive/folders/18jROIbSenFhb0KLQWTjGpLt5BBo2iisc?usp=sharing">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/11c3rIGWn4DkiX5cNESxK-b7BPrWeXgEC?usp=sharing">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1vNUrhENg0o42_AMLD6ZPAw7ztGE0zxuF/view?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>10</b></td>
