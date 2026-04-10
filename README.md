@@ -56,6 +56,13 @@
   </p>
 </div>
 
+<div class="books-section">
+  <h2>📗 Мидтерм және финалдық жоба тақырыптары</h2>
+    <p>
+    👉 <a href=" " target="_blank" style="font-weight: bold; font-size: 1.1em;">Excel файлды ашу</a>
+  </p>
+</div>
+
 <h2 class="section-title">📖 1-бөлім: Негіздер және Python (1–5 апта)</h2>
 
 <table>
