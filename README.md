@@ -161,7 +161,7 @@
       <td><b>Оптимизация негіздері</b><br><sub>Градиенттік түсу, туындылар, шығын функциялары (MSE, cross-entropy, Hinge), L1/L2 регуляризация, Ньютон әдісі</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1Ir636w4oFSd3wIM0nsxl-h1olUgLjI64?usp=sharing">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1UwazL1nbZ--z-YsoW0FL6SIz8-1y748b?usp=sharing">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1JcWjkY-CHXwOYWFKbmHBTcuca0Ush9V_/view?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>11</b></td>
