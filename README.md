@@ -166,15 +166,15 @@
     <tr>
       <td align="center"><b>11</b></td>
       <td><b>Ансамбль әдістері</b><br><sub>Бэггинг, кездейсоқ орман (Random Forest), градиентті бустинг әдістері (XGBoost, LightGBM, CatBoost), стекинг</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1hCTjJRT52OWFu4rxFWd2KQ57npDc2iLf?usp=drive_link">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1JeEgw7lepZ7qBaQnDQ_50ltSvLd_kxCt?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>12</b></td>
       <td><b>Модель сапасы және оптимизация</b><br><sub>Метрикалар, кросс-валидация, гиперпараметрлерді іріктеу (Grid Search, Random Search, Optuna), теңгерімсіз кластармен жұмыс (SMOTE, class_weight), оптимизация</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1AD4SirFG0gIoKP2hMeOoL9oXIvOARQ7Q?usp=drive_link">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1hAIbvtDS-sjNIr49QAXb6Vm7QD2BNPT6?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
   </tbody>
@@ -239,36 +239,36 @@
     <tr>
       <td align="center"><b>13</b></td>
       <td><b>Нейрондық желілер негіздері</b><br><sub>Персептрон, көпқабатты желілер (MLP), активация функциялары, тура және кері таралу (forward/backward propagation)</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1Ug76Vh0oPnAvSPnh3_1wzYiIW8HxbMRj?usp=drive_link">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1jDjrMF3QQB3TPbkDsM39HzgWIrcdI5nI?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>14</b></td>
       <td><b>PyTorch негіздері</b><br><sub>Тензорлар мен операциялар, автоматты дифференциация, градиенттерді есептеу, бірінші нейрондық желіні құру және үйрету</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1ydf_MfbCfOHPzVMsx_SUC5fIbx1dRJGx?usp=drive_link">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1kjvUyV4dQ9e2UrwaTo5pb2mDcaVO45vl?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>15</b></td>
       <td><b>Сверткалық нейрондық желілер (CNN)</b><br><sub>Архитектура, conv қабаттар, активация функциялары, pooling, dropout, batch normalization, трансферлік оқыту, кескінді классификациялау</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1J4Oy0aSc3C-ZQHNWFkyXgrsSv9YzdVwm?usp=drive_link">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/11R9I-6BPDjSWdd-2fAEy0BUlJal1PNYo?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>16</b></td>
       <td><b>Қайталанатын нейрондық желілер (RNN)</b><br><sub>Тізбектермен жұмыс, LSTM және GRU архитектуралары, екі бағытты RNN, градиенттің жоғалуы мәселесі</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1CTGbJeCIBUBvkf-LdRTLyfddTZ9r1CSg?usp=drive_link">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/13vuVBThA_CxULc0DODUWVF2W5W4onKLz?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>17</b></td>
       <td><b>Күрделі архитектуралар</b><br><sub>Автокодерлер (VAE), генеративті қарсыластар желілері (GAN), трансформерлер (self-attention, multi-head attention)</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/177To3sUEblQmDgPdaqReNssjqOQH_WtX?usp=drive_link">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1Mtk0ERaKaoRdGhIp7R7YjWC7eiE_HyXm?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
   </tbody>
@@ -298,22 +298,22 @@
     <tr>
       <td align="center"><b>18</b></td>
       <td><b>Табиғи тілді өңдеу (NLP) – 1</b><br><sub>Токенизация, Bag of Words, TF-IDF, сөздердің векторлық көріністері (Word2Vec, GloVe), BERT эмбеддингтері, HuggingFace кітапханасы</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1tBXTVbabuhpGEcYGXaZWUGFT4pvxdzuk?usp=drive_link">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1LssXaKjI6xsOWej6iz_-o1vpKo_MUdX_?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>19</b></td>
       <td><b>Табиғи тілді өңдеу (NLP) – 2</b><br><sub>Тіл модельдерін fine-tuning, мәтінді классификациялау, атаулы нысандарды шығару (NER), мәтіндерді қысқарту, машиналық аударма, сұрақ-жауап жүйелері</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1vMTlGRDlmd0IUJbQmjUN9DV0P7QQQxWO?usp=drive_link">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/19vASgbMf3J4Dfkd8vNJI94xDQggr6WeL?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>20</b></td>
       <td><b>Компьютерлік көру (Computer Vision)</b><br><sub>Кескіндерді классификациялау, сегментация, объектілерді анықтау және бақылау, кескін генерациясы, ML-дің практикалық қолданылуы</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1MuaC-htZq-Rn0-kjOxqV5JpsII5Ar3R9?usp=drive_link">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1FpvHsKoPDs0gsvOM1XX8nD1jaL0W-deV?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>
