@@ -168,7 +168,7 @@
       <td><b>Ансамбль әдістері</b><br><sub>Бэггинг, кездейсоқ орман (Random Forest), градиентті бустинг әдістері (XGBoost, LightGBM, CatBoost), стекинг</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1hCTjJRT52OWFu4rxFWd2KQ57npDc2iLf?usp=drive_link">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1JeEgw7lepZ7qBaQnDQ_50ltSvLd_kxCt?usp=drive_link">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1MQXZs1LtfO3wa8eNkWVVmzxfAbZmQ2fT/view?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>12</b></td>
