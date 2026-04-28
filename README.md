@@ -175,7 +175,7 @@
       <td><b>Модель сапасы және оптимизация</b><br><sub>Метрикалар, кросс-валидация, гиперпараметрлерді іріктеу (Grid Search, Random Search, Optuna), теңгерімсіз кластармен жұмыс (SMOTE, class_weight), оптимизация</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1AD4SirFG0gIoKP2hMeOoL9oXIvOARQ7Q?usp=drive_link">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1hAIbvtDS-sjNIr49QAXb6Vm7QD2BNPT6?usp=drive_link">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://colab.research.google.com/drive/1kuSc2F4fFdojbrsFRUsCfbL75WVVYaUo?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
   </tbody>
 </table>
