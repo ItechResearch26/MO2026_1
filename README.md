@@ -255,7 +255,7 @@
       <td><b>Сверткалық нейрондық желілер (CNN)</b><br><sub>Архитектура, conv қабаттар, активация функциялары, pooling, dropout, batch normalization, трансферлік оқыту, кескінді классификациялау</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1J4Oy0aSc3C-ZQHNWFkyXgrsSv9YzdVwm?usp=drive_link">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/11R9I-6BPDjSWdd-2fAEy0BUlJal1PNYo?usp=drive_link">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://colab.research.google.com/drive/1YLpx-p1cvPt7mecgTRfAtPCbpYG7LQ-m?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>16</b></td>
