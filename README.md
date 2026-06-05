@@ -269,7 +269,7 @@
       <td><b>Күрделі архитектуралар</b><br><sub>Автокодерлер (VAE), генеративті қарсыластар желілері (GAN), трансформерлер (self-attention, multi-head attention)</sub></td>
       <td><a href="https://drive.google.com/drive/folders/177To3sUEblQmDgPdaqReNssjqOQH_WtX?usp=drive_link">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1Mtk0ERaKaoRdGhIp7R7YjWC7eiE_HyXm?usp=drive_link">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://docs.google.com/document/d/1xIpyljzpe7oizMpVYrWfy1wwxwp0qhqPoxJmza16NnQ/edit?usp=sharing">🧩 СӨЖ</a></td>
     </tr>
   </tbody>
 </table>
