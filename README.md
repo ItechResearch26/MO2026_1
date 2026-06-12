@@ -336,7 +336,7 @@
       <td><b>Табиғи тілді өңдеу (NLP) – 1</b><br><sub>Токенизация, Bag of Words, TF-IDF, сөздердің векторлық көріністері (Word2Vec, GloVe), BERT эмбеддингтері, HuggingFace кітапханасы</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1tBXTVbabuhpGEcYGXaZWUGFT4pvxdzuk?usp=drive_link">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1LssXaKjI6xsOWej6iz_-o1vpKo_MUdX_?usp=drive_link">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://colab.research.google.com/drive/1TLxQUIZrFJsW3SW3R1Roz1LiMNIYXdbV?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>19</b></td>
