@@ -356,14 +356,14 @@
       <td align="center"><b>21</b></td>
       <td><b>Ұсыныс жүйелері – 1</b><br><sub>Коллаборативті фильтрация, ALS алгоритмі, SLIM әдісі, implicit feedback-пен жұмыс</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1dNGmh6x0sSt2LGVYzvqQGxXEdOpc3DXc?usp=drive_link">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1YgUKPQDsr816yj4rdPWxlOsjQecMeFmg?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>22</b></td>
       <td><b>Ұсыныс жүйелері – 2</b><br><sub>Матрицалық жіктеу (SVD, NMF), контенттік фильтрация, гибридті тәсілдер, нейрожелі автоэнкодерлер, бағалау метрикалары (diversity, novelty, coverage, serendipity)</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1b0Do3pEdif1o9t9J1TKaQe2OhMr7iWqU?usp=drive_link">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/16KnAkg9J4NItAnCPgtOJZkZbVMPKs0bN?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
   </tbody>
@@ -394,14 +394,14 @@
       <td align="center"><b>23</b></td>
       <td><b>ML-жобаны ұйымдастыру</b><br><sub>Құрылым, рөлдер, құралдар. Зерттеу әдістемесі. Модель интерпретациясы және ML-ді этикалық қолдану</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1shNcuEjtJzImB_odpHXipaGt2hGxafTv?usp=drive_link">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/18nfnZmriv25zQevhP9DGfIrSDe2OcCVM?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>24</b></td>
       <td><b>Бизнес-міндеттерді ML-мен сипаттау</b><br><sub>Метрикаларды таңдау, EDA және feature engineering, алдын ала өңдеу пайплайны, baseline модельдер, эксперимент құжаттамасы, гипотеза тексеру стратегиясы</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1LGUmrYTfPQ6YLNeaD7V_-u96sMYZZoV0?usp=drive_link">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1r2Kz6NNlY7THH4ElbNmUQN7d9GwJMy_J?usp=drive_link">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
   </tbody>
@@ -424,7 +424,7 @@
       <td align="center"><b>25</b></td>
       <td><b>Финалдық жобаны қорғау</b><br><sub>шешім архитектурасын түсіндіру, белгілер маңыздылығын талдау, ML терминологиясын қолдану арқылы нәтижелерді интерпретациялау (bias-variance, validation gap, AUC, F1, underfitting/overfitting), бизнес салдары, модель шектеулерін сыни бағалау </sub></td>
       <td><a href="https://drive.google.com/drive/folders/1Rl4DA4Makrsi3I1RjkZMo--3QuwK8AXm?usp=drive_link">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Тапсырма</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1-RaCf65is_G6Ez5LqGC_BzEjO2pDIrX1?usp=drive_link">💻 Тапсырма</a></td>
     </tr>
     <tr>
       <td align="center"><b>26</b></td>
