@@ -343,14 +343,14 @@
       <td><b>Табиғи тілді өңдеу (NLP) – 2</b><br><sub>Тіл модельдерін fine-tuning, мәтінді классификациялау, атаулы нысандарды шығару (NER), мәтіндерді қысқарту, машиналық аударма, сұрақ-жауап жүйелері</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1vMTlGRDlmd0IUJbQmjUN9DV0P7QQQxWO?usp=drive_link">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/19vASgbMf3J4Dfkd8vNJI94xDQggr6WeL?usp=drive_link">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1HRY6qhBfi1XYjmRcdYWUpeQxS8pkobEW/view?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>20</b></td>
       <td><b>Компьютерлік көру (Computer Vision)</b><br><sub>Кескіндерді классификациялау, сегментация, объектілерді анықтау және бақылау, кескін генерациясы, ML-дің практикалық қолданылуы</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1MuaC-htZq-Rn0-kjOxqV5JpsII5Ar3R9?usp=drive_link">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1FpvHsKoPDs0gsvOM1XX8nD1jaL0W-deV?usp=drive_link">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1Ueb-X_UvvRocMQEen1t4We8Xui1JfxGK/view?usp=sharing">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>21</b></td>
