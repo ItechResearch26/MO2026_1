@@ -349,7 +349,7 @@
       <td align="center"><b>20</b></td>
       <td><b>Компьютерлік көру (Computer Vision)</b><br><sub>Кескіндерді классификациялау, сегментация, объектілерді анықтау және бақылау, кескін генерациясы, ML-дің практикалық қолданылуы</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1MuaC-htZq-Rn0-kjOxqV5JpsII5Ar3R9?usp=drive_link">📝 Дәріс жазбасы</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1FpvHsKoPDs0gsvOM1XX8nD1jaL0W-deV?usp=drive_link">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1FpvHsKoPDs0gsvOM1XX8nD1jaL0W-deV?usp=drive_link">💻 Практика</a></td> 
       <td><a href="https://drive.google.com/file/d/1Ueb-X_UvvRocMQEen1t4We8Xui1JfxGK/view?usp=sharing">🧩 СӨЖ</a></td>
     </tr>
     <tr>
