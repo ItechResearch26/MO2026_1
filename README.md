@@ -371,10 +371,11 @@
 
 
 <div class="project-card">
-  <h3>🎯 МИДТЕРМ 3 (22-апта)</h3>
-  <p><b>Тақырып:</b> Медициналық кескіндерді классификациялау</p>
-  <p><b>Міндет:</b> Kaggle платформасынан медициналық деректер қорын пайдаланып, компьютерлік көрудегі кескіндерді классификациялау үшін нейрондық желілерді (CNN) қолдану. Transfer learning міндетті.</p>
-  <p><b>Талаптар:</b> Pre-trained модельдерді қолдану, data augmentation, детальді метрика талдауы</p>
+  <h3>🌿 Өсімдік ауруларын анықтау (Plant Disease Recognition)</h3>
+  <p><b>Деректер:</b> <a href="https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset">Kaggle — Plant Disease Recognition</a> (3 класс: Healthy, Powdery, Rust; ~1530 кескін)</p>
+  <p><b>Әдіс:</b> CNN + Transfer Learning</p>
+  <p><b>Технологиялар:</b> Python, TensorFlow/Keras, data augmentation</p>
+  <p><b>Кезеңдер:</b> деректерді жүктеу → augmentation → pre-trained модель → fine-tuning → метрика талдауы (Accuracy, Precision, Recall, F1, Confusion Matrix)</p>
 </div>
 
 <h2 class="section-title">🎨 5-бөлім: Кеңейтілген тақырыптар және продакшн (23–24 апта)</h2>
