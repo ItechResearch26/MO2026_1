@@ -374,7 +374,9 @@
   <h3>🌿 Өсімдік ауруларын анықтау (Plant Disease Recognition)</h3>
   <p><b>Деректер:</b> <a href="https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset">Kaggle — Plant Disease Recognition</a> (3 класс: Healthy, Powdery, Rust; ~1530 кескін)</p>
   <p><b>Әдіс:</b> CNN + Transfer Learning</p>
+  <p><b>GitHUB жұмыс орынын pull:</b> <a href="#"></p>
   <p><b>Технологиялар:</b> Python, TensorFlow/Keras, data augmentation</p>
+  <p><b>Ең үздік жоба:</b> Метрикалардың жоғары болу: Accuracy, Precision, Recall, F1-score </p>
   <p><b>Кезеңдер:</b> деректерді жүктеу → augmentation → pre-trained модель → fine-tuning → метрика талдауы (Accuracy, Precision, Recall, F1, Confusion Matrix)</p>
 </div>
 
