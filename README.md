@@ -374,7 +374,7 @@
   <h3>🎯 МИДТЕРМ 3 (22-апта)</h3>
   <h3>🌿 Өсімдік ауруларын анықтау (Plant Disease Recognition)</h3>
   <p><b>Деректер:</b> <a href="https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset">Kaggle — Plant Disease Recognition</a> (3 класс: Healthy, Powdery, Rust; ~1530 кескін)</p>
-  <p><b>Әдіс:</b> CNN + Transfer Learning // кез-келген <a href="https://www.kaggle.com/datasets/yerassylis/plant-disease-recognition-lightweight-128x128/datat"></a> </p>
+  <p><b>Әдіс:</b> CNN + Transfer Learning // кез-келген <a href="https://www.kaggle.com/datasets/yerassylis/plant-disease-recognition-lightweight-128x128/data"> жүктеу </a> </p>
   <p><b>GitHUB жұмыс орынын clone:</b> <a href="#"></p>
   <p><b>Технологиялар:</b> Python, TensorFlow/Keras, data augmentation</p>
   <p><b>Ең үздік жоба:</b> Метрикалардың жоғары болу: Accuracy, Precision, Recall, F1-score </p>
