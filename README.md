@@ -364,7 +364,7 @@
       <td><b>Ұсыныс жүйелері – 2</b><br><sub>Матрицалық жіктеу (SVD, NMF), контенттік фильтрация, гибридті тәсілдер, нейрожелі автоэнкодерлер, бағалау метрикалары (diversity, novelty, coverage, serendipity)</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1b0Do3pEdif1o9t9J1TKaQe2OhMr7iWqU?usp=drive_link">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/16KnAkg9J4NItAnCPgtOJZkZbVMPKs0bN?usp=drive_link">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1bJdRdbV93rXYRJN5P48eZCsXCK497xTX/view?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
   </tbody>
 </table>
@@ -399,7 +399,7 @@
       <td><b>ML-жобаны ұйымдастыру</b><br><sub>Құрылым, рөлдер, құралдар. Зерттеу әдістемесі. Модель интерпретациясы және ML-ді этикалық қолдану</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1shNcuEjtJzImB_odpHXipaGt2hGxafTv?usp=drive_link">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/18nfnZmriv25zQevhP9DGfIrSDe2OcCVM?usp=drive_link">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1bJdRdbV93rXYRJN5P48eZCsXCK497xTX/view?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>24</b></td>
